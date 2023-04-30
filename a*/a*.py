@@ -1,3 +1,6 @@
+# Aluno: Eduardo Henrique Freire Machado (2020001617)
+# Disciplina: DCC607 - Inteligência Artificial
+
 # Vizinhos de cada cidade e suas respectivas distâncias
 adjacency_list = {
     'Arad'          : [('Zerind', 75), ('Sibiu', 140), ('Timisoara', 118)],

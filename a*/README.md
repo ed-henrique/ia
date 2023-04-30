@@ -1,6 +1,21 @@
-# Algoritmo A*
+# Algoritmo A* <!-- omit in toc -->
 
 O algoritmo A* é um algoritmo de busca em grafos que encontra o caminho mais curto entre dois pontos em um grafo ponderado. Ele é amplamente utilizado em jogos, robótica, sistemas de navegação e outros tipos de aplicação.
+
+> Aluno: Eduardo Henrique Freire Machado (2020001617)
+> 
+> Disciplina: DCC607 - Inteligência Artificial
+
+## Índice <!-- omit in toc -->
+- [Explicação](#explicação)
+- [Funcionamento](#funcionamento)
+- [Problema do Mapa da Romênia](#problema-do-mapa-da-romênia)
+  - [Heurística definida](#heurística-definida)
+- [Como Configurar o Ambiente de Desenvolvimento](#como-configurar-o-ambiente-de-desenvolvimento)
+  - [Dependências](#dependências)
+  - [Como clonar o repositório](#como-clonar-o-repositório)
+  - [Como executar o código](#como-executar-o-código)
+- [Referências](#referências)
 
 ## Explicação
 
