@@ -42,6 +42,26 @@ No exemplo da imagem, a heurística é a distância em linha reta de Bucareste a
 
 No código do algoritmo, a heurística já foi fornecida diretamente, mas caso não estivesse disponível, seria necessário ter as coordenadas de cada ponto em um plano para calcular as distâncias em linha reta do destino a cada um dos nós e fornecer a heurística. Isso poderia ser feito utilizando fórmulas matemáticas simples para calcular a distância euclidiana entre dois pontos em um plano.
 
+## Como Configurar o Ambiente de Desenvolvimento
+
+### Dependências
+
+- `Python 3.10.9` (Versão utilizada para desenvolvimento, mas o código aparenta ser compatível com todas as versões do Python3)
+
+### Como clonar o repositório
+
+```bash
+git clone git@github.com:ed-henrique/ia.git
+cd ia
+cd a*
+```
+
+### Como executar o código
+
+```bash
+python3 a*.py
+```
+
 ## Referências
 
 - [A* Search Algorithm by StackAbuse](https://stackabuse.com/courses/graphs-in-python-theory-and-implementation/lessons/a-star-search-algorithm/)
